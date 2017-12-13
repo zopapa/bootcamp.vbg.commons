@@ -1,13 +1,10 @@
 package com.bootcamp.commons.enums;
 
 /**
- * Created by darextossa on 11/28/17.
+ * Created by Moh on 13/12/2017
  */
 public enum EntityType {
 
-    PROJET,
-    AXE,
-    PILIER,
-    MEDIA,
-    SECTEUR
+    PLAINTE,
+    PHASE;
 }

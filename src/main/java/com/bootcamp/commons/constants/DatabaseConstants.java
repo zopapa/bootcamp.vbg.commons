@@ -6,7 +6,7 @@ package com.bootcamp.commons.constants;
  */
 public interface DatabaseConstants {
 
-    public static String PERSISTENCE_UNIT = "databasePU";
+    public static String PERSISTENCE_UNIT = "vbgPU";
     public String QUERY_PREFIX = "o";
 
 }
