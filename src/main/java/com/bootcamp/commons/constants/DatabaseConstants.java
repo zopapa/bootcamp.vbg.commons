@@ -2,11 +2,11 @@ package com.bootcamp.commons.constants;
 
 /**
  *
- * @author bignon
+ * @author Moh
  */
 public interface DatabaseConstants {
 
-    public static String PERSISTENCE_UNIT = "vbgPU";
+    public static String PERSISTENCE_UNIT = "vbgDatabasePU";
     public String QUERY_PREFIX = "o";
 
 }
